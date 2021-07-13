@@ -6,5 +6,5 @@
 ## View Pager Second Screen
 ![PictureSecond](viewPageSecondScreen.png)
 
-##View Pager Third Screen
+## View Pager Third Screen
 ![PictureThird](viewPageThirdScreen.png)
